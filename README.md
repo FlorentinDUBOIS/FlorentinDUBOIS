@@ -1,16 +1,11 @@
 ### Hey there 👋 
 
-I'm Florentin Dubois a french software engineer located at Brest in France.
+Nice to meet you! I am Florentin, a french site reliability and software engineer currently working at Clever-Cloud.
 
-After one year of internship at [SII Ouest](https://sii-group.com/fr-FR/sii-ouest) and aC3. I work at [OVHcloud](https://ovh.com) on the load balancer 
-products, but previously, I was working on the Metrics Data Platform product.
+I work around distributed systems by operating and create applications on top of them. Apache [ZooKeeper](https://github.com/apache/zookeeper), [Flink](https://github.com/apache/flink), [Pulsar](https://github.com/apache/pulsar), [BookKeeper](https://github.com/apache/bookkeeper), [HBase](https://github.com/apache/hbase), [Hadoop](https://github.com/apache/hadoop), Kafka and Warp 10 are a part of them. I also played a lot with [Kubernetes](https://github.com/kubernetes/kubernetes) and [etcd](https://github.com/etcd-io/etcd) clusters during my last mission at OVHcloud.
 
-I love working around distributed systems developing tools and software on top of it. Besides, I was lucky to operate and play with Apache 
-[Pulsar](https://github.com/apache/pulsar), [Hadoop](https://github.com/apache/hadoop), [HBase](https://github.com/apache/hbase), 
-[BookKeeper](https://github.com/apache/bookkeeper), [ZooKeeper](https://github.com/apache/zookeeper),
-and now [Kubernetes](https://github.com/kubernetes/kubernetes) & [etcd](https://github.com/etcd-io/etcd).
+I was working at [OVHcloud](https://ovh.com) as technical leader for more than 2 years, leading technically two products (nearly one year each). The first one was Metrics Data Platform and the other one, Public Cloud Load Balancer. Between those two product, I also contribute to create another one which name is ioStream, a messaging product as a service. Before, those events, I began as a software engineer on the Metrics Data Platform product which was dealing with observability issues at cloud provider scale.
 
-From time to time, I gave talks about what I did, you should have a look [here](https://gist.github.com/FlorentinDUBOIS/d4097bc63cf1883b8357e9e949d45c08), 
-if you are interested.
+I started my IT journey, by two sandwich courses of one year each at [SII Ouest](https://sii-group.com/fr-FR/sii-ouest) and aC3, as junior software engineer.
 
 To get in contact, I'm on Twitter under the user [@FlorentinDUBOIS](https://twitter.com/FlorentinDUBOIS).
